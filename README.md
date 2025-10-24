@@ -5,10 +5,11 @@
 // add in git bash to commit to your repo
 
 cd to/ur/project/path  
+```bash
 git add .  
 git commit -m "Your commit message here"  
 git push origin main   # Replace "main" with your branch name if applicable, not required first time  
-
+```
 ---
 
 ## Edit Code from Codespace When Version Lags Behind GitHub
