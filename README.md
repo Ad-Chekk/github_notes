@@ -23,7 +23,7 @@ git pull origin main
 ```
 ---
 
-## Check and Remove Remote Repository Connection
+
 
 # to check which GitHub repo your project directory is connected to 
 ```
